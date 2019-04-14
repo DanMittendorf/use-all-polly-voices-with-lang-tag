@@ -24,6 +24,9 @@ Easy as that. Now, get back your skill and use Polly voices. Check out my other 
 
   
   (1): https://developer.amazon.com/blogs/alexa/post/baee53c1-5b03-4580-b57a-ee9510413354/amazon-polly-voices-in-alexa-skills-now-generally-available
+  
   (2): https://docs.aws.amazon.com/en_us/polly/latest/dg/voicelist.html
+  
   (3): https://developer.amazon.com/docs/custom-skills/speech-synthesis-markup-language-ssml-reference.html#lang
+  
   (4): https://docs.aws.amazon.com/en_us/polly/latest/dg/supported-ssml.html#lang-tag
