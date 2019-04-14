@@ -20,6 +20,20 @@ In order to create more personas for your skill with an individual voice, you ca
   
 `<voice name="Celine"><lang xml:lang="en-US">Hi, my name is Celine. Nice to meet you, Brian. How are your doing, Brian?</lang></voice>`
 
+Want to try it out? Visit this page and login to your account: https://eu-west-1.console.aws.amazon.com/polly/home/SynthesizeSpeech
+
+1. Choose "SSML" tab
+
+2. Switch to French and choose voice "Celine"
+
+3. Enter the following SSML:
+`<speak><lang xml:lang="en-US">Hello, my name is Celine. Nice to meet you Brian. How are you?</lang></speak>`
+
+4. Listen to your SSML via push on the blue button. 
+
+5. Enjoy!
+
+
 Easy as that. Now, get back your skill and use Polly voices. Check out my other repo to see how to use polly voices with background music! It's also pretty easy!
 
   
